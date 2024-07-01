@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{517154C7-AA1B-405A-8EDD-690F42FBB39E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test_proj3/.DS_Store">
+    <Files>
+      <File FileName="test_proj3/Program.cs" Line="19" Column="1" />
+      <File FileName="test_proj3/P.cs" />
+      <File FileName="test_proj3/cs/cs1.cs" />
+      <File FileName="test_proj3/cs/folder.cs" />
+      <File FileName="test_proj3/.DS_Store" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="test_solution3" expanded="True">
+            <Node name="test_proj3" expanded="True">
+              <Node name="cs" expanded="True" />
+              <Node name=".DS_Store" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.test__proj3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

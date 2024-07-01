@@ -1,0 +1,6 @@
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/obj/Debug/test_proj3.csproj.AssemblyReference.cache
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/obj/Debug/test_proj3.csproj.CoreCompileInputs.cache
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/bin/Debug/test_proj3.exe
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/bin/Debug/test_proj3.pdb
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/obj/Debug/test_proj3.exe
+/Users/sunbin/Github/test_cs/study/test_solution3/test_proj3/obj/Debug/test_proj3.pdb
